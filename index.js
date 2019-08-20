@@ -25,7 +25,7 @@
      for(let i = 0; i < myArray.length; i++){
        
     }
-   let facebook1 = new FacebookUser("marvin");
+   let facebook1 = new FacebookUser("marvin"); // you should create an object FOR EACH item in the array
 //    let facebook2 = new FacebookUser("ferris");
 //    let facebook3 = new FacebookUser("brynn");
 //  //console.log(facebook1);
